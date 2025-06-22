@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Amisha 👋
 
 <!--
 **Amisha0906/Amisha0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Backend Developer with a growing interest in Data Science and AI/ML.
+
+---
+
+### 💻 Tech Stack
+- **Languages:** Python
+- **Frameworks/Libraries:** Flask, Pandas, Scikit-learn, Plotly
+- **Tools:** Git, Docker (learning), Google Cloud Platform
+
+---
